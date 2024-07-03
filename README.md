@@ -1,4 +1,4 @@
-### Chunav: Predictive Modeling for Election Outcomes
+## Chunav: Predictive Modeling for Election Outcomes
 
 **Tagline:** "वोट हमारा है अनमोल। कभी न लगे इसका मोल।।" 
 ---
